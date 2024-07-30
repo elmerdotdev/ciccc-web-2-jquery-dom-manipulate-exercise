@@ -39,7 +39,7 @@ Complete the exercises by modifying the `app.js` file. Some of the jQuery code i
 
 ## Exercise 6: Find Previous Sibling and Style List Item 5 Span
 
-- **Objective:** Use jQuery to traverse from the clicked button to a child `<ul>` element and style `<span>Item 5</span>`
+- **Objective:** Use jQuery to traverse from the clicked button to a previous sibling's child `<ul>` element and style `<span>Item 5</span>`
 - **Instructions:**
   1. Open the HTML file in your browser.
   2. Click the "Change Previous Sibling List Item Span Color" button to change the color of **Item 5** to red.
